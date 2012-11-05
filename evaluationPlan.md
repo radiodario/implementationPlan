@@ -31,19 +31,21 @@ The test aims to get a better idea of how does the prototype work accross three 
 ### Test Methodology
 #### Test Particulars:
 * Dates: Tuesday 6th - Wednesday 7th 2012
-* Number of Users: 5-10
-* Location: Where convenient (office, home).
+* Number of Users: 5-10 
+** a balance between achievability and significance
+* Location: Where convenient (office, home)
+** no special tools are needed, so it can be done remotely
 * Approx duration of test: 20-30 mins
 * Total testing time: ~5 hours
 
 ### Test Script:
 #### Briefing
 Inform and explain to users what steps the test will consist of, what data will be collected and how it will be used
-#### Initial Interview (5 mins)
-Ask the users a bit about themselves, collect some demographic data and interests, occupation, technology devices they own, etc.
+#### Initial Interview/Survey (5 mins)
+Ask the users a bit about themselves, collect some demographic data and interests, occupation, technology devices they own, do they own cars? have they ever sold or bought a car on the internet?
 
 #### Free Task Tests (15 mins)
-Let the users explore the site and uncover any potential usability issue
+Let the users explore the site and uncover any potential usability issues
 
 ##### Desktop test (5 mins)
 1. Provide user with URL to the site
