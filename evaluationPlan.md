@@ -25,8 +25,8 @@ The test aims to get a better idea of how does the prototype work accross three 
 * Were users expecting less information? i.e. is there anything to be left out?
 
 #### Mobile vs Desktop site:
-* Are there things on the destkop version that users miss on the mobile ?
-* Could we strip out non-essential things from the Desktop site and still retain functionality?
+* Are there things on the destkop version that users miss on the mobile version?
+* Could we strip out non-essential things from the Desktop site and still retain the same core functionality?
 
 ### Test Methodology
 #### Test Particulars:
@@ -34,7 +34,7 @@ The test aims to get a better idea of how does the prototype work accross three 
 * Number of Users: 5-10
 * Location: Where convenient (office, home).
 * Approx duration of test: 20-30 mins
-* Total testing time: 5-10 hours
+* Total testing time: ~5 hours
 
 ### Test Script:
 #### Briefing
